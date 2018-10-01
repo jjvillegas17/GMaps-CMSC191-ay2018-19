@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<script src="http://maps.googleapis.com/maps/api/js?key=
-AIzaSyA_qQhxJ_cMDz_2k1iOUI-sskSB_0v98aY"></script>
+<script src="http://maps.googleapis.com/maps/api/js?key=API_KEY"></script>
 </head>
 
 
